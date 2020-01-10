@@ -1,0 +1,5 @@
+problem,algorithm,params,best fitness,best iterations,best time,best fevals
+NN,Backprop,"['\\NN', 'Backpro']",0.472695752673,150,9.890023687000001,0
+NN,GA,"['\\NN', 'GA', '50', '20', '1']",0.294791666667,10,7.6045556560000005,0
+NN,RHC,"['\\NN', 'RH']",0.388070783319,0,0.027472742999999997,0
+NN,SA,"['\\NN', 'SA', '0.']",0.305954825462,80,2.39391915,0

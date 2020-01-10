@@ -1,0 +1,769 @@
+---------- FLIPFLOP ----------
+{}
+---------- TSP ----------
+{}
+---------- CONTPEAKS ----------
+{}
+---------- FLIPFLOP ----------
+{}
+---------- TSP ----------
+{}
+---------- CONTPEAKS ----------
+{}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']}}
+---------- FLIPFLOP ----------
+{}
+---------- TSP ----------
+{}
+---------- CONTPEAKS ----------
+{}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'SA': {'best': 0.388070783319,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.15_LOG.csv']}}
+---------- FLIPFLOP ----------
+{}
+---------- TSP ----------
+{}
+---------- CONTPEAKS ----------
+{}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'SA': {'best': 0.388070783319,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.15_LOG.csv']}}
+---------- FLIPFLOP ----------
+{}
+---------- TSP ----------
+{}
+---------- CONTPEAKS ----------
+{}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'SA': {'best': 0.388070783319,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.15_LOG.csv']}}
+---------- FLIPFLOP ----------
+{}
+---------- TSP ----------
+{}
+---------- CONTPEAKS ----------
+{}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'SA': {'best': 0.388070783319,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.15_LOG.csv']}}
+---------- FLIPFLOP ----------
+{}
+---------- TSP ----------
+{}
+---------- CONTPEAKS ----------
+{}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'SA': {'best': 0.388070783319,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.15_LOG.csv']}}
+---------- FLIPFLOP ----------
+{}
+---------- TSP ----------
+{}
+---------- CONTPEAKS ----------
+{}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'SA': {'best': 0.388070783319,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.15_LOG.csv']}}
+---------- FLIPFLOP ----------
+{}
+---------- TSP ----------
+{}
+---------- CONTPEAKS ----------
+{}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'SA': {'best': 0.388070783319,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.15_LOG.csv']}}
+---------- FLIPFLOP ----------
+{}
+---------- TSP ----------
+{}
+---------- CONTPEAKS ----------
+{}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'SA': {'best': 0.388070783319,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.15_LOG.csv']}}
+---------- FLIPFLOP ----------
+{}
+---------- TSP ----------
+{}
+---------- CONTPEAKS ----------
+{}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'SA': {'best': 0.388070783319,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.15_LOG.csv']}}
+---------- FLIPFLOP ----------
+{}
+---------- TSP ----------
+{}
+---------- CONTPEAKS ----------
+{}
+---------- FLIPFLOP ----------
+{}
+---------- TSP ----------
+{}
+---------- CONTPEAKS ----------
+{}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'SA': {'best': 0.388070783319,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.15_LOG.csv']}}
+---------- FLIPFLOP ----------
+{}
+---------- TSP ----------
+{}
+---------- CONTPEAKS ----------
+{}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'SA': {'best': 0.388070783319,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.15_LOG.csv']}}
+---------- FLIPFLOP ----------
+{}
+---------- TSP ----------
+{}
+---------- CONTPEAKS ----------
+{}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'SA': {'best': 0.388070783319,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.15_LOG.csv']}}
+---------- FLIPFLOP ----------
+{}
+---------- TSP ----------
+{}
+---------- CONTPEAKS ----------
+{}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'SA': {'best': 0.388070783319,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.15_LOG.csv']}}
+---------- FLIPFLOP ----------
+{}
+---------- TSP ----------
+{}
+---------- CONTPEAKS ----------
+{}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'SA': {'best': 0.388070783319,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.15_LOG.csv']}}
+---------- FLIPFLOP ----------
+{}
+---------- TSP ----------
+{}
+---------- CONTPEAKS ----------
+{}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'SA': {'best': 0.399641577061,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.35_LOG.csv']}}
+---------- FLIPFLOP ----------
+{}
+---------- TSP ----------
+{}
+---------- FLIPFLOP ----------
+{}
+---------- TSP ----------
+{}
+---------- CONTPEAKS ----------
+{}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'SA': {'best': 0.395740905058,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.7_LOG.csv']}}
+---------- FLIPFLOP ----------
+{}
+---------- TSP ----------
+{}
+---------- CONTPEAKS ----------
+{}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'RHC': {'best': 0.388070783319,
+         'files': ['output//NN_OUTPUT\\NN_RHC_LOG.csv']},
+ 'SA': {'best': 0.395740905058,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.7_LOG.csv']}}
+---------- FLIPFLOP ----------
+{}
+---------- TSP ----------
+{}
+---------- CONTPEAKS ----------
+{}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'RHC': {'best': 0.388070783319,
+         'files': ['output//NN_OUTPUT\\NN_RHC_LOG.csv']},
+ 'SA': {'best': 0.395740905058,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.7_LOG.csv']}}
+---------- FLIPFLOP ----------
+{}
+---------- TSP ----------
+{}
+---------- CONTPEAKS ----------
+{}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'RHC': {'best': 0.388070783319,
+         'files': ['output//NN_OUTPUT\\NN_RHC_LOG.csv']},
+ 'SA': {'best': 0.395740905058,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.7_LOG.csv']}}
+---------- FLIPFLOP ----------
+{}
+---------- TSP ----------
+{'MIMIC': {'best': 0.0352233902408,
+           'files': ['output//TSP\\TSP_MIMIC100_50_0.1_1_LOG.csv',
+                     'output//TSP\\TSP_MIMIC100_50_0.1_2_LOG.csv',
+                     'output//TSP\\TSP_MIMIC100_50_0.1_3_LOG.csv']}}
+---------- CONTPEAKS ----------
+{'GA': {'best': 93.16666666666667,
+        'files': ['output//CONTPEAKS\\CONTPEAKS_GA100_50_50_1_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_GA100_50_50_2_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_GA100_50_50_3_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_GA100_50_50_4_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_GA100_50_50_5_LOG.csv']},
+ 'MIMIC': {'best': 78.0,
+           'files': ['output//CONTPEAKS\\CONTPEAKS_MIMIC100_50_0.7_1_LOG.csv',
+                     'output//CONTPEAKS\\CONTPEAKS_MIMIC100_50_0.7_2_LOG.csv',
+                     'output//CONTPEAKS\\CONTPEAKS_MIMIC100_50_0.7_3_LOG.csv',
+                     'output//CONTPEAKS\\CONTPEAKS_MIMIC100_50_0.7_4_LOG.csv',
+                     'output//CONTPEAKS\\CONTPEAKS_MIMIC100_50_0.7_5_LOG.csv']},
+ 'RHC': {'best': 96.16666666666667,
+         'files': ['output//CONTPEAKS\\CONTPEAKS_RHC_1_LOG.csv',
+                   'output//CONTPEAKS\\CONTPEAKS_RHC_2_LOG.csv',
+                   'output//CONTPEAKS\\CONTPEAKS_RHC_3_LOG.csv',
+                   'output//CONTPEAKS\\CONTPEAKS_RHC_4_LOG.csv',
+                   'output//CONTPEAKS\\CONTPEAKS_RHC_5_LOG.csv']},
+ 'SA': {'best': 99.0,
+        'files': ['output//CONTPEAKS\\CONTPEAKS_SA0.75_1_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_SA0.75_2_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_SA0.75_3_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_SA0.75_4_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_SA0.75_5_LOG.csv']}}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'GA': {'best': 0.0012746972594,
+        'files': ['output//NN_OUTPUT\\NN_GA_50_20_20_LOG.csv']},
+ 'RHC': {'best': 0.388070783319,
+         'files': ['output//NN_OUTPUT\\NN_RHC_LOG.csv']},
+ 'SA': {'best': 0.395740905058,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.7_LOG.csv']}}
+---------- FLIPFLOP ----------
+{}
+---------- TSP ----------
+{'GA': {'best': 0.10905207526183334,
+        'files': ['output//TSP\\TSP_GA100_30_10_1_LOG.csv',
+                  'output//TSP\\TSP_GA100_30_10_2_LOG.csv',
+                  'output//TSP\\TSP_GA100_30_10_3_LOG.csv',
+                  'output//TSP\\TSP_GA100_30_10_4_LOG.csv',
+                  'output//TSP\\TSP_GA100_30_10_5_LOG.csv']},
+ 'MIMIC': {'best': 0.0352233902408,
+           'files': ['output//TSP\\TSP_MIMIC100_50_0.1_1_LOG.csv',
+                     'output//TSP\\TSP_MIMIC100_50_0.1_2_LOG.csv',
+                     'output//TSP\\TSP_MIMIC100_50_0.1_3_LOG.csv']},
+ 'RHC': {'best': 0.05475614663688333,
+         'files': ['output//TSP\\TSP_RHC_1_LOG.csv',
+                   'output//TSP\\TSP_RHC_2_LOG.csv',
+                   'output//TSP\\TSP_RHC_3_LOG.csv',
+                   'output//TSP\\TSP_RHC_4_LOG.csv',
+                   'output//TSP\\TSP_RHC_5_LOG.csv']},
+ 'SA': {'best': 0.06138017382343333,
+        'files': ['output//TSP\\TSP_SA0.35_1_LOG.csv',
+                  'output//TSP\\TSP_SA0.35_2_LOG.csv',
+                  'output//TSP\\TSP_SA0.35_3_LOG.csv',
+                  'output//TSP\\TSP_SA0.35_4_LOG.csv',
+                  'output//TSP\\TSP_SA0.35_5_LOG.csv']}}
+---------- CONTPEAKS ----------
+{'GA': {'best': 93.16666666666667,
+        'files': ['output//CONTPEAKS\\CONTPEAKS_GA100_50_50_1_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_GA100_50_50_2_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_GA100_50_50_3_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_GA100_50_50_4_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_GA100_50_50_5_LOG.csv']},
+ 'MIMIC': {'best': 78.0,
+           'files': ['output//CONTPEAKS\\CONTPEAKS_MIMIC100_50_0.7_1_LOG.csv',
+                     'output//CONTPEAKS\\CONTPEAKS_MIMIC100_50_0.7_2_LOG.csv',
+                     'output//CONTPEAKS\\CONTPEAKS_MIMIC100_50_0.7_3_LOG.csv',
+                     'output//CONTPEAKS\\CONTPEAKS_MIMIC100_50_0.7_4_LOG.csv',
+                     'output//CONTPEAKS\\CONTPEAKS_MIMIC100_50_0.7_5_LOG.csv']},
+ 'RHC': {'best': 96.16666666666667,
+         'files': ['output//CONTPEAKS\\CONTPEAKS_RHC_1_LOG.csv',
+                   'output//CONTPEAKS\\CONTPEAKS_RHC_2_LOG.csv',
+                   'output//CONTPEAKS\\CONTPEAKS_RHC_3_LOG.csv',
+                   'output//CONTPEAKS\\CONTPEAKS_RHC_4_LOG.csv',
+                   'output//CONTPEAKS\\CONTPEAKS_RHC_5_LOG.csv']},
+ 'SA': {'best': 99.0,
+        'files': ['output//CONTPEAKS\\CONTPEAKS_SA0.75_1_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_SA0.75_2_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_SA0.75_3_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_SA0.75_4_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_SA0.75_5_LOG.csv']}}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'GA': {'best': 0.0012746972594,
+        'files': ['output//NN_OUTPUT\\NN_GA_50_20_20_LOG.csv']},
+ 'RHC': {'best': 0.388070783319,
+         'files': ['output//NN_OUTPUT\\NN_RHC_LOG.csv']},
+ 'SA': {'best': 0.395740905058,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.7_LOG.csv']}}
+---------- FLIPFLOP ----------
+{'GA': {'best': 602.0,
+        'files': ['output//FLIPFLOP\\FLIPFLOP_GA100_30_50_1_LOG.csv',
+                  'output//FLIPFLOP\\FLIPFLOP_GA100_30_50_2_LOG.csv',
+                  'output//FLIPFLOP\\FLIPFLOP_GA100_30_50_3_LOG.csv',
+                  'output//FLIPFLOP\\FLIPFLOP_GA100_30_50_4_LOG.csv',
+                  'output//FLIPFLOP\\FLIPFLOP_GA100_30_50_5_LOG.csv']},
+ 'MIMIC': {'best': 784.0,
+           'files': ['output//FLIPFLOP\\FLIPFLOP_MIMIC100_50_0.1_1_LOG.csv']},
+ 'RHC': {'best': 772.0,
+         'files': ['output//FLIPFLOP\\FLIPFLOP_RHC_1_LOG.csv',
+                   'output//FLIPFLOP\\FLIPFLOP_RHC_2_LOG.csv',
+                   'output//FLIPFLOP\\FLIPFLOP_RHC_3_LOG.csv',
+                   'output//FLIPFLOP\\FLIPFLOP_RHC_4_LOG.csv',
+                   'output//FLIPFLOP\\FLIPFLOP_RHC_5_LOG.csv']},
+ 'SA': {'best': 785.3333333333334,
+        'files': ['output//FLIPFLOP\\FLIPFLOP_SA0.55_1_LOG.csv',
+                  'output//FLIPFLOP\\FLIPFLOP_SA0.55_2_LOG.csv',
+                  'output//FLIPFLOP\\FLIPFLOP_SA0.55_3_LOG.csv',
+                  'output//FLIPFLOP\\FLIPFLOP_SA0.55_4_LOG.csv',
+                  'output//FLIPFLOP\\FLIPFLOP_SA0.55_5_LOG.csv']}}
+---------- TSP ----------
+{'GA': {'best': 0.10905207526183334,
+        'files': ['output//TSP\\TSP_GA100_30_10_1_LOG.csv',
+                  'output//TSP\\TSP_GA100_30_10_2_LOG.csv',
+                  'output//TSP\\TSP_GA100_30_10_3_LOG.csv',
+                  'output//TSP\\TSP_GA100_30_10_4_LOG.csv',
+                  'output//TSP\\TSP_GA100_30_10_5_LOG.csv']},
+ 'MIMIC': {'best': 0.0352233902408,
+           'files': ['output//TSP\\TSP_MIMIC100_50_0.1_1_LOG.csv',
+                     'output//TSP\\TSP_MIMIC100_50_0.1_2_LOG.csv',
+                     'output//TSP\\TSP_MIMIC100_50_0.1_3_LOG.csv']},
+ 'RHC': {'best': 0.05475614663688333,
+         'files': ['output//TSP\\TSP_RHC_1_LOG.csv',
+                   'output//TSP\\TSP_RHC_2_LOG.csv',
+                   'output//TSP\\TSP_RHC_3_LOG.csv',
+                   'output//TSP\\TSP_RHC_4_LOG.csv',
+                   'output//TSP\\TSP_RHC_5_LOG.csv']},
+ 'SA': {'best': 0.06138017382343333,
+        'files': ['output//TSP\\TSP_SA0.35_1_LOG.csv',
+                  'output//TSP\\TSP_SA0.35_2_LOG.csv',
+                  'output//TSP\\TSP_SA0.35_3_LOG.csv',
+                  'output//TSP\\TSP_SA0.35_4_LOG.csv',
+                  'output//TSP\\TSP_SA0.35_5_LOG.csv']}}
+---------- CONTPEAKS ----------
+{'GA': {'best': 93.16666666666667,
+        'files': ['output//CONTPEAKS\\CONTPEAKS_GA100_50_50_1_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_GA100_50_50_2_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_GA100_50_50_3_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_GA100_50_50_4_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_GA100_50_50_5_LOG.csv']},
+ 'MIMIC': {'best': 78.0,
+           'files': ['output//CONTPEAKS\\CONTPEAKS_MIMIC100_50_0.7_1_LOG.csv',
+                     'output//CONTPEAKS\\CONTPEAKS_MIMIC100_50_0.7_2_LOG.csv',
+                     'output//CONTPEAKS\\CONTPEAKS_MIMIC100_50_0.7_3_LOG.csv',
+                     'output//CONTPEAKS\\CONTPEAKS_MIMIC100_50_0.7_4_LOG.csv',
+                     'output//CONTPEAKS\\CONTPEAKS_MIMIC100_50_0.7_5_LOG.csv']},
+ 'RHC': {'best': 96.16666666666667,
+         'files': ['output//CONTPEAKS\\CONTPEAKS_RHC_1_LOG.csv',
+                   'output//CONTPEAKS\\CONTPEAKS_RHC_2_LOG.csv',
+                   'output//CONTPEAKS\\CONTPEAKS_RHC_3_LOG.csv',
+                   'output//CONTPEAKS\\CONTPEAKS_RHC_4_LOG.csv',
+                   'output//CONTPEAKS\\CONTPEAKS_RHC_5_LOG.csv']},
+ 'SA': {'best': 99.0,
+        'files': ['output//CONTPEAKS\\CONTPEAKS_SA0.75_1_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_SA0.75_2_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_SA0.75_3_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_SA0.75_4_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_SA0.75_5_LOG.csv']}}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'GA': {'best': 0.0641579272054,
+        'files': ['output//NN_OUTPUT\\NN_GA_50_20_20_LOG.csv']},
+ 'RHC': {'best': 0.388070783319,
+         'files': ['output//NN_OUTPUT\\NN_RHC_LOG.csv']},
+ 'SA': {'best': 0.395740905058,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.7_LOG.csv']}}
+---------- FLIPFLOP ----------
+{'GA': {'best': 602.0,
+        'files': ['output//FLIPFLOP\\FLIPFLOP_GA100_30_50_1_LOG.csv',
+                  'output//FLIPFLOP\\FLIPFLOP_GA100_30_50_2_LOG.csv',
+                  'output//FLIPFLOP\\FLIPFLOP_GA100_30_50_3_LOG.csv',
+                  'output//FLIPFLOP\\FLIPFLOP_GA100_30_50_4_LOG.csv',
+                  'output//FLIPFLOP\\FLIPFLOP_GA100_30_50_5_LOG.csv']},
+ 'MIMIC': {'best': 784.0,
+           'files': ['output//FLIPFLOP\\FLIPFLOP_MIMIC100_50_0.1_1_LOG.csv']},
+ 'RHC': {'best': 772.0,
+         'files': ['output//FLIPFLOP\\FLIPFLOP_RHC_1_LOG.csv',
+                   'output//FLIPFLOP\\FLIPFLOP_RHC_2_LOG.csv',
+                   'output//FLIPFLOP\\FLIPFLOP_RHC_3_LOG.csv',
+                   'output//FLIPFLOP\\FLIPFLOP_RHC_4_LOG.csv',
+                   'output//FLIPFLOP\\FLIPFLOP_RHC_5_LOG.csv']},
+ 'SA': {'best': 785.3333333333334,
+        'files': ['output//FLIPFLOP\\FLIPFLOP_SA0.55_1_LOG.csv',
+                  'output//FLIPFLOP\\FLIPFLOP_SA0.55_2_LOG.csv',
+                  'output//FLIPFLOP\\FLIPFLOP_SA0.55_3_LOG.csv',
+                  'output//FLIPFLOP\\FLIPFLOP_SA0.55_4_LOG.csv',
+                  'output//FLIPFLOP\\FLIPFLOP_SA0.55_5_LOG.csv']}}
+---------- TSP ----------
+{'GA': {'best': 0.10905207526183334,
+        'files': ['output//TSP\\TSP_GA100_30_10_1_LOG.csv',
+                  'output//TSP\\TSP_GA100_30_10_2_LOG.csv',
+                  'output//TSP\\TSP_GA100_30_10_3_LOG.csv',
+                  'output//TSP\\TSP_GA100_30_10_4_LOG.csv',
+                  'output//TSP\\TSP_GA100_30_10_5_LOG.csv']},
+ 'MIMIC': {'best': 0.0352233902408,
+           'files': ['output//TSP\\TSP_MIMIC100_50_0.1_1_LOG.csv',
+                     'output//TSP\\TSP_MIMIC100_50_0.1_2_LOG.csv',
+                     'output//TSP\\TSP_MIMIC100_50_0.1_3_LOG.csv']},
+ 'RHC': {'best': 0.05475614663688333,
+         'files': ['output//TSP\\TSP_RHC_1_LOG.csv',
+                   'output//TSP\\TSP_RHC_2_LOG.csv',
+                   'output//TSP\\TSP_RHC_3_LOG.csv',
+                   'output//TSP\\TSP_RHC_4_LOG.csv',
+                   'output//TSP\\TSP_RHC_5_LOG.csv']},
+ 'SA': {'best': 0.06138017382343333,
+        'files': ['output//TSP\\TSP_SA0.35_1_LOG.csv',
+                  'output//TSP\\TSP_SA0.35_2_LOG.csv',
+                  'output//TSP\\TSP_SA0.35_3_LOG.csv',
+                  'output//TSP\\TSP_SA0.35_4_LOG.csv',
+                  'output//TSP\\TSP_SA0.35_5_LOG.csv']}}
+---------- CONTPEAKS ----------
+{'GA': {'best': 93.16666666666667,
+        'files': ['output//CONTPEAKS\\CONTPEAKS_GA100_50_50_1_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_GA100_50_50_2_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_GA100_50_50_3_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_GA100_50_50_4_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_GA100_50_50_5_LOG.csv']},
+ 'MIMIC': {'best': 78.0,
+           'files': ['output//CONTPEAKS\\CONTPEAKS_MIMIC100_50_0.7_1_LOG.csv',
+                     'output//CONTPEAKS\\CONTPEAKS_MIMIC100_50_0.7_2_LOG.csv',
+                     'output//CONTPEAKS\\CONTPEAKS_MIMIC100_50_0.7_3_LOG.csv',
+                     'output//CONTPEAKS\\CONTPEAKS_MIMIC100_50_0.7_4_LOG.csv',
+                     'output//CONTPEAKS\\CONTPEAKS_MIMIC100_50_0.7_5_LOG.csv']},
+ 'RHC': {'best': 96.16666666666667,
+         'files': ['output//CONTPEAKS\\CONTPEAKS_RHC_1_LOG.csv',
+                   'output//CONTPEAKS\\CONTPEAKS_RHC_2_LOG.csv',
+                   'output//CONTPEAKS\\CONTPEAKS_RHC_3_LOG.csv',
+                   'output//CONTPEAKS\\CONTPEAKS_RHC_4_LOG.csv',
+                   'output//CONTPEAKS\\CONTPEAKS_RHC_5_LOG.csv']},
+ 'SA': {'best': 99.0,
+        'files': ['output//CONTPEAKS\\CONTPEAKS_SA0.75_1_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_SA0.75_2_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_SA0.75_3_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_SA0.75_4_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_SA0.75_5_LOG.csv']}}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'GA': {'best': 0.388070783319,
+        'files': ['output//NN_OUTPUT\\NN_GA_50_20_10_LOG.csv']},
+ 'RHC': {'best': 0.388070783319,
+         'files': ['output//NN_OUTPUT\\NN_RHC_LOG.csv']},
+ 'SA': {'best': 0.395740905058,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.7_LOG.csv']}}
+---------- FLIPFLOP ----------
+{'GA': {'best': 602.0,
+        'files': ['output//FLIPFLOP\\FLIPFLOP_GA100_30_50_1_LOG.csv',
+                  'output//FLIPFLOP\\FLIPFLOP_GA100_30_50_2_LOG.csv',
+                  'output//FLIPFLOP\\FLIPFLOP_GA100_30_50_3_LOG.csv',
+                  'output//FLIPFLOP\\FLIPFLOP_GA100_30_50_4_LOG.csv',
+                  'output//FLIPFLOP\\FLIPFLOP_GA100_30_50_5_LOG.csv']},
+ 'MIMIC': {'best': 784.0,
+           'files': ['output//FLIPFLOP\\FLIPFLOP_MIMIC100_50_0.1_1_LOG.csv']},
+ 'RHC': {'best': 772.0,
+         'files': ['output//FLIPFLOP\\FLIPFLOP_RHC_1_LOG.csv',
+                   'output//FLIPFLOP\\FLIPFLOP_RHC_2_LOG.csv',
+                   'output//FLIPFLOP\\FLIPFLOP_RHC_3_LOG.csv',
+                   'output//FLIPFLOP\\FLIPFLOP_RHC_4_LOG.csv',
+                   'output//FLIPFLOP\\FLIPFLOP_RHC_5_LOG.csv']},
+ 'SA': {'best': 785.3333333333334,
+        'files': ['output//FLIPFLOP\\FLIPFLOP_SA0.55_1_LOG.csv',
+                  'output//FLIPFLOP\\FLIPFLOP_SA0.55_2_LOG.csv',
+                  'output//FLIPFLOP\\FLIPFLOP_SA0.55_3_LOG.csv',
+                  'output//FLIPFLOP\\FLIPFLOP_SA0.55_4_LOG.csv',
+                  'output//FLIPFLOP\\FLIPFLOP_SA0.55_5_LOG.csv']}}
+---------- TSP ----------
+{'GA': {'best': 0.10905207526183334,
+        'files': ['output//TSP\\TSP_GA100_30_10_1_LOG.csv',
+                  'output//TSP\\TSP_GA100_30_10_2_LOG.csv',
+                  'output//TSP\\TSP_GA100_30_10_3_LOG.csv',
+                  'output//TSP\\TSP_GA100_30_10_4_LOG.csv',
+                  'output//TSP\\TSP_GA100_30_10_5_LOG.csv']},
+ 'MIMIC': {'best': 0.0352233902408,
+           'files': ['output//TSP\\TSP_MIMIC100_50_0.1_1_LOG.csv',
+                     'output//TSP\\TSP_MIMIC100_50_0.1_2_LOG.csv',
+                     'output//TSP\\TSP_MIMIC100_50_0.1_3_LOG.csv']},
+ 'RHC': {'best': 0.05475614663688333,
+         'files': ['output//TSP\\TSP_RHC_1_LOG.csv',
+                   'output//TSP\\TSP_RHC_2_LOG.csv',
+                   'output//TSP\\TSP_RHC_3_LOG.csv',
+                   'output//TSP\\TSP_RHC_4_LOG.csv',
+                   'output//TSP\\TSP_RHC_5_LOG.csv']},
+ 'SA': {'best': 0.06138017382343333,
+        'files': ['output//TSP\\TSP_SA0.35_1_LOG.csv',
+                  'output//TSP\\TSP_SA0.35_2_LOG.csv',
+                  'output//TSP\\TSP_SA0.35_3_LOG.csv',
+                  'output//TSP\\TSP_SA0.35_4_LOG.csv',
+                  'output//TSP\\TSP_SA0.35_5_LOG.csv']}}
+---------- CONTPEAKS ----------
+{'GA': {'best': 93.16666666666667,
+        'files': ['output//CONTPEAKS\\CONTPEAKS_GA100_50_50_1_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_GA100_50_50_2_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_GA100_50_50_3_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_GA100_50_50_4_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_GA100_50_50_5_LOG.csv']},
+ 'MIMIC': {'best': 78.0,
+           'files': ['output//CONTPEAKS\\CONTPEAKS_MIMIC100_50_0.7_1_LOG.csv',
+                     'output//CONTPEAKS\\CONTPEAKS_MIMIC100_50_0.7_2_LOG.csv',
+                     'output//CONTPEAKS\\CONTPEAKS_MIMIC100_50_0.7_3_LOG.csv',
+                     'output//CONTPEAKS\\CONTPEAKS_MIMIC100_50_0.7_4_LOG.csv',
+                     'output//CONTPEAKS\\CONTPEAKS_MIMIC100_50_0.7_5_LOG.csv']},
+ 'RHC': {'best': 96.16666666666667,
+         'files': ['output//CONTPEAKS\\CONTPEAKS_RHC_1_LOG.csv',
+                   'output//CONTPEAKS\\CONTPEAKS_RHC_2_LOG.csv',
+                   'output//CONTPEAKS\\CONTPEAKS_RHC_3_LOG.csv',
+                   'output//CONTPEAKS\\CONTPEAKS_RHC_4_LOG.csv',
+                   'output//CONTPEAKS\\CONTPEAKS_RHC_5_LOG.csv']},
+ 'SA': {'best': 99.0,
+        'files': ['output//CONTPEAKS\\CONTPEAKS_SA0.75_1_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_SA0.75_2_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_SA0.75_3_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_SA0.75_4_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_SA0.75_5_LOG.csv']}}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'GA': {'best': 0.388070783319,
+        'files': ['output//NN_OUTPUT\\NN_GA_50_20_10_LOG.csv']},
+ 'RHC': {'best': 0.388070783319,
+         'files': ['output//NN_OUTPUT\\NN_RHC_LOG.csv']},
+ 'SA': {'best': 0.395740905058,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.7_LOG.csv']}}
+---------- FLIPFLOP ----------
+{'GA': {'best': 602.0,
+        'files': ['output//FLIPFLOP\\FLIPFLOP_GA100_30_50_1_LOG.csv',
+                  'output//FLIPFLOP\\FLIPFLOP_GA100_30_50_2_LOG.csv',
+                  'output//FLIPFLOP\\FLIPFLOP_GA100_30_50_3_LOG.csv',
+                  'output//FLIPFLOP\\FLIPFLOP_GA100_30_50_4_LOG.csv',
+                  'output//FLIPFLOP\\FLIPFLOP_GA100_30_50_5_LOG.csv']},
+ 'MIMIC': {'best': 784.0,
+           'files': ['output//FLIPFLOP\\FLIPFLOP_MIMIC100_50_0.1_1_LOG.csv']},
+ 'RHC': {'best': 772.0,
+         'files': ['output//FLIPFLOP\\FLIPFLOP_RHC_1_LOG.csv',
+                   'output//FLIPFLOP\\FLIPFLOP_RHC_2_LOG.csv',
+                   'output//FLIPFLOP\\FLIPFLOP_RHC_3_LOG.csv',
+                   'output//FLIPFLOP\\FLIPFLOP_RHC_4_LOG.csv',
+                   'output//FLIPFLOP\\FLIPFLOP_RHC_5_LOG.csv']},
+ 'SA': {'best': 785.3333333333334,
+        'files': ['output//FLIPFLOP\\FLIPFLOP_SA0.55_1_LOG.csv',
+                  'output//FLIPFLOP\\FLIPFLOP_SA0.55_2_LOG.csv',
+                  'output//FLIPFLOP\\FLIPFLOP_SA0.55_3_LOG.csv',
+                  'output//FLIPFLOP\\FLIPFLOP_SA0.55_4_LOG.csv',
+                  'output//FLIPFLOP\\FLIPFLOP_SA0.55_5_LOG.csv']}}
+---------- TSP ----------
+{'GA': {'best': 0.10905207526183334,
+        'files': ['output//TSP\\TSP_GA100_30_10_1_LOG.csv',
+                  'output//TSP\\TSP_GA100_30_10_2_LOG.csv',
+                  'output//TSP\\TSP_GA100_30_10_3_LOG.csv',
+                  'output//TSP\\TSP_GA100_30_10_4_LOG.csv',
+                  'output//TSP\\TSP_GA100_30_10_5_LOG.csv']},
+ 'MIMIC': {'best': 0.0352233902408,
+           'files': ['output//TSP\\TSP_MIMIC100_50_0.1_1_LOG.csv',
+                     'output//TSP\\TSP_MIMIC100_50_0.1_2_LOG.csv',
+                     'output//TSP\\TSP_MIMIC100_50_0.1_3_LOG.csv']},
+ 'RHC': {'best': 0.05475614663688333,
+         'files': ['output//TSP\\TSP_RHC_1_LOG.csv',
+                   'output//TSP\\TSP_RHC_2_LOG.csv',
+                   'output//TSP\\TSP_RHC_3_LOG.csv',
+                   'output//TSP\\TSP_RHC_4_LOG.csv',
+                   'output//TSP\\TSP_RHC_5_LOG.csv']},
+ 'SA': {'best': 0.06138017382343333,
+        'files': ['output//TSP\\TSP_SA0.35_1_LOG.csv',
+                  'output//TSP\\TSP_SA0.35_2_LOG.csv',
+                  'output//TSP\\TSP_SA0.35_3_LOG.csv',
+                  'output//TSP\\TSP_SA0.35_4_LOG.csv',
+                  'output//TSP\\TSP_SA0.35_5_LOG.csv']}}
+---------- CONTPEAKS ----------
+{'GA': {'best': 93.16666666666667,
+        'files': ['output//CONTPEAKS\\CONTPEAKS_GA100_50_50_1_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_GA100_50_50_2_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_GA100_50_50_3_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_GA100_50_50_4_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_GA100_50_50_5_LOG.csv']},
+ 'MIMIC': {'best': 78.0,
+           'files': ['output//CONTPEAKS\\CONTPEAKS_MIMIC100_50_0.7_1_LOG.csv',
+                     'output//CONTPEAKS\\CONTPEAKS_MIMIC100_50_0.7_2_LOG.csv',
+                     'output//CONTPEAKS\\CONTPEAKS_MIMIC100_50_0.7_3_LOG.csv',
+                     'output//CONTPEAKS\\CONTPEAKS_MIMIC100_50_0.7_4_LOG.csv',
+                     'output//CONTPEAKS\\CONTPEAKS_MIMIC100_50_0.7_5_LOG.csv']},
+ 'RHC': {'best': 96.16666666666667,
+         'files': ['output//CONTPEAKS\\CONTPEAKS_RHC_1_LOG.csv',
+                   'output//CONTPEAKS\\CONTPEAKS_RHC_2_LOG.csv',
+                   'output//CONTPEAKS\\CONTPEAKS_RHC_3_LOG.csv',
+                   'output//CONTPEAKS\\CONTPEAKS_RHC_4_LOG.csv',
+                   'output//CONTPEAKS\\CONTPEAKS_RHC_5_LOG.csv']},
+ 'SA': {'best': 99.0,
+        'files': ['output//CONTPEAKS\\CONTPEAKS_SA0.75_1_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_SA0.75_2_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_SA0.75_3_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_SA0.75_4_LOG.csv',
+                  'output//CONTPEAKS\\CONTPEAKS_SA0.75_5_LOG.csv']}}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'GA': {'best': 0.388070783319,
+        'files': ['output//NN_OUTPUT\\NN_GA_50_20_10_LOG.csv']},
+ 'RHC': {'best': 0.388070783319,
+         'files': ['output//NN_OUTPUT\\NN_RHC_LOG.csv']},
+ 'SA': {'best': 0.395740905058,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.7_LOG.csv']}}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'GA': {'best': 0.388070783319,
+        'files': ['output//NN_OUTPUT\\NN_GA_50_20_10_LOG.csv']},
+ 'RHC': {'best': 0.388070783319,
+         'files': ['output//NN_OUTPUT\\NN_RHC_LOG.csv']},
+ 'SA': {'best': 0.395740905058,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.7_LOG.csv']}}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'GA': {'best': 0.388070783319,
+        'files': ['output//NN_OUTPUT\\NN_GA_50_20_10_LOG.csv']},
+ 'RHC': {'best': 0.388070783319,
+         'files': ['output//NN_OUTPUT\\NN_RHC_LOG.csv']},
+ 'SA': {'best': 0.395740905058,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.7_LOG.csv']}}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'GA': {'best': 0.388070783319,
+        'files': ['output//NN_OUTPUT\\NN_GA_50_20_10_LOG.csv']},
+ 'RHC': {'best': 0.388070783319,
+         'files': ['output//NN_OUTPUT\\NN_RHC_LOG.csv']},
+ 'SA': {'best': 0.395740905058,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.7_LOG.csv']}}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'GA': {'best': 0.388070783319,
+        'files': ['output//NN_OUTPUT\\NN_GA_50_20_10_LOG.csv']},
+ 'RHC': {'best': 0.388070783319,
+         'files': ['output//NN_OUTPUT\\NN_RHC_LOG.csv']},
+ 'SA': {'best': 0.395740905058,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.7_LOG.csv']}}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'GA': {'best': 0.388070783319,
+        'files': ['output//NN_OUTPUT\\NN_GA_50_20_10_LOG.csv']},
+ 'RHC': {'best': 0.388070783319,
+         'files': ['output//NN_OUTPUT\\NN_RHC_LOG.csv']},
+ 'SA': {'best': 0.395740905058,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.7_LOG.csv']}}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'GA': {'best': 0.388070783319,
+        'files': ['output//NN_OUTPUT\\NN_GA_50_20_10_LOG.csv']},
+ 'RHC': {'best': 0.388070783319,
+         'files': ['output//NN_OUTPUT\\NN_RHC_LOG.csv']},
+ 'SA': {'best': 0.395740905058,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.7_LOG.csv']}}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'GA': {'best': 0.388070783319,
+        'files': ['output//NN_OUTPUT\\NN_GA_50_20_10_LOG.csv']},
+ 'RHC': {'best': 0.388070783319,
+         'files': ['output//NN_OUTPUT\\NN_RHC_LOG.csv']},
+ 'SA': {'best': 0.395740905058,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.7_LOG.csv']}}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'GA': {'best': 0.388070783319,
+        'files': ['output//NN_OUTPUT\\NN_GA_50_20_10_LOG.csv']},
+ 'RHC': {'best': 0.388070783319,
+         'files': ['output//NN_OUTPUT\\NN_RHC_LOG.csv']},
+ 'SA': {'best': 0.395740905058,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.7_LOG.csv']}}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'GA': {'best': 0.388070783319,
+        'files': ['output//NN_OUTPUT\\NN_GA_50_20_10_LOG.csv']},
+ 'RHC': {'best': 0.388070783319,
+         'files': ['output//NN_OUTPUT\\NN_RHC_LOG.csv']},
+ 'SA': {'best': 0.395740905058,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.7_LOG.csv']}}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'GA': {'best': 0.388070783319,
+        'files': ['output//NN_OUTPUT\\NN_GA_50_20_10_LOG.csv']},
+ 'RHC': {'best': 0.388070783319,
+         'files': ['output//NN_OUTPUT\\NN_RHC_LOG.csv']},
+ 'SA': {'best': 0.395740905058,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.7_LOG.csv']}}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'GA': {'best': 0.388070783319,
+        'files': ['output//NN_OUTPUT\\NN_GA_50_20_10_LOG.csv']},
+ 'RHC': {'best': 0.388070783319,
+         'files': ['output//NN_OUTPUT\\NN_RHC_LOG.csv']},
+ 'SA': {'best': 0.395740905058,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.7_LOG.csv']}}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'GA': {'best': 0.388070783319,
+        'files': ['output//NN_OUTPUT\\NN_GA_50_20_10_LOG.csv']},
+ 'RHC': {'best': 0.388070783319,
+         'files': ['output//NN_OUTPUT\\NN_RHC_LOG.csv']},
+ 'SA': {'best': 0.395740905058,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.7_LOG.csv']}}
+---------- NN ----------
+{'Backprop': {'best': 0.472695752673,
+              'files': ['output//NN_OUTPUT\\NN_Backprop_LOG.csv']},
+ 'GA': {'best': 0.388070783319,
+        'files': ['output//NN_OUTPUT\\NN_GA_50_20_10_LOG.csv']},
+ 'RHC': {'best': 0.388070783319,
+         'files': ['output//NN_OUTPUT\\NN_RHC_LOG.csv']},
+ 'SA': {'best': 0.395740905058,
+        'files': ['output//NN_OUTPUT\\NN_SA_0.7_LOG.csv']}}
